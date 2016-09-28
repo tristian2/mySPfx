@@ -1,0 +1,11 @@
+{
+  "generator-mocha": {
+    "ui": "tdd",
+    "rjs": false
+  },
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "spframeworktest",
+    "libraryId": "1db028d2-87a1-41f5-999b-646701c16aa8",
+    "framework": "none"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spframeworktest-client-side-solution",
+    "id": "1db028d2-87a1-41f5-999b-646701c16aa8",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spframeworktest.spapp"
+  }
+}
